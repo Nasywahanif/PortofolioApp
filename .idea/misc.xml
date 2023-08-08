@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/education.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/favorite.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/header.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/hobby.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/portofolio.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/profile.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable-v24/skills.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable/school.xml" value="0.132" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/drawable/web.xml" value="0.1" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_education.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_hobby.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_portofolio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_portofolio_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_profil2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/activity_skill.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/hobby_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/school_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LABRPL2_PC21/AndroidStudioProjects/hanifnsy/app/src/main/res/layout/skill_list.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
